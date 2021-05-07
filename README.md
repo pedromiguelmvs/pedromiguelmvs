@@ -1,14 +1,14 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá!
 
-Me chamo **Pedro Miguel**, sou um aspirante a desenvolvedor que adora construir seguindo as boas práticas. Extrovertido, gosto de trabalhar em equipe e me relacionar com as pessoas. Construo meus projetos utilizando as tecnologias mais modernas do mercado. Meus projetos mais ativos estão no **Gitlab**.
+Me chamo **Pedro Miguel**, sou um aspirante a desenvolvedor que adora construir seguindo as boas práticas e aprender coisas novas. Faço meus projetos utilizando as tecnologias mais modernas do mercado. Meus projetos mais ativos estão no **Gitlab**.
 
 
-#### 💫 **"Orientando-se para si mesmo, querendo ser ele mesmo, o eu mergulha, através da sua própria transparência até o poder que o criou."**
+#### 💫 **"Somos o resultado de nossas escolhas."**
 
--  📍  From AL, living in Maceió
+-  📍  De AL, vivendo em Maceió
 
 
-#### Reach me out 👇
+#### Outras redes sociais 👇
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/pedromiguelmvs/)](https://www.linkedin.com/in/pedromiguelmvs/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https:https://www.instagram.com/pedromiguelmvs/)](https://www.instagram.com/pedromiguelmvs/) [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/pedromiguelmvs)](https://gitlab.com/pedromiguelmvs)
 
 
