@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá!
 
-Me chamo **Pedro Miguel**, sou um aspirante a desenvolvedor que adora construir seguindo as boas práticas e aprender coisas novas. Faço meus projetos utilizando as tecnologias mais modernas do mercado. Meus projetos mais ativos estão no **Gitlab**.
+Me chamo **Pedro Miguel**, sou um aspirante a desenvolvedor que adora construir seguindo as boas práticas e aprender coisas novas. Faço meus projetos utilizando as tecnologias mais modernas do mercado.
 
 
 #### 💫 **"Somos o resultado de nossas escolhas."**
