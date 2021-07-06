@@ -14,9 +14,13 @@ Me chamo **Pedro Miguel**, sou um aspirante a desenvolvedor que adora construir 
 
 #### Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)<br />
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)<br />
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)<br />
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)<br />
-![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)<br />
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white)<br />
+![Docker](https://img.shields.io/badge/Docker-0ba2d9.svg?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-10a54e.svg?logo=mongodb&logoColor=white)<br />
+![Sass](https://img.shields.io/badge/Sass-cf649a.svg?logo=sass&logoColor=white)<br />
 
