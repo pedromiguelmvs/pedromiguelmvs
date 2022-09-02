@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá!
 
-Me chamo **Pedro Miguel**, sou um aspirante a desenvolvedor que adora construir seguindo as boas práticas e aprender coisas novas. Faço meus projetos utilizando as tecnologias mais modernas do mercado.
+Me chamo **Pedro Miguel**, sou um desenvolvedor que adora construir seguindo as boas práticas e aprender coisas novas. Faço meus projetos utilizando as tecnologias mais modernas do mercado.
 
 
 #### 💫 **"Somos o resultado de nossas escolhas."**
@@ -23,4 +23,5 @@ Me chamo **Pedro Miguel**, sou um aspirante a desenvolvedor que adora construir 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-10a54e.svg?logo=mongodb&logoColor=white)<br />
 ![Sass](https://img.shields.io/badge/Sass-cf649a.svg?logo=sass&logoColor=white)<br />
-
+![Angular](https://img.shields.io/badge/Angular-cf649a.svg?logo=angular&logoColor=red&color=brown)<br />
+![NestJS](https://img.shields.io/badge/NestJS-cf649a.svg?logo=nestjs&logoColor=red&color=black)<br />
