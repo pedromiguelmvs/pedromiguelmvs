@@ -22,6 +22,6 @@ Me chamo **Pedro Miguel**, sou um desenvolvedor que adora construir seguindo as 
 ![Docker](https://img.shields.io/badge/Docker-0ba2d9.svg?logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-10a54e.svg?logo=mongodb&logoColor=white)<br />
-![Sass](https://img.shields.io/badge/Sass-cf649a.svg?logo=sass&logoColor=white)<br />
-![Angular](https://img.shields.io/badge/Angular-cf649a.svg?logo=angular&logoColor=red&color=brown)<br />
+![Sass](https://img.shields.io/badge/Sass-cf649a.svg?logo=sass&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-cf649a.svg?logo=angular&logoColor=red&color=brown)
 ![NestJS](https://img.shields.io/badge/NestJS-cf649a.svg?logo=nestjs&logoColor=red&color=black)<br />
