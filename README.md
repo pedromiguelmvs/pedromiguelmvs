@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logo.png" width="600"/></p>
+<p align="center"><img src="assets/logo1.png" width="600"/></p>
 <p align="center"><a href="https://twitter.com/imnickgabe"><img src="https://img.shields.io/badge/twitter-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=twitter"/></a>
 <a href="https://linkedin.com/in/nickgabe"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a></p>
 <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Olá! Eu sou Pedro Miguel, um desenvolvedor apaixonado por tecnologia.</p>
