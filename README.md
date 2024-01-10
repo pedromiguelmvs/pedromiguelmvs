@@ -1,7 +1,4 @@
-<p align="center"><img src="assets/logo1.png" width="600"/></p>
-<p align="center">
-<a href="https://linkedin.com/in/pedromiguelmvs"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a></p>
-<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Olá! Eu sou Pedro Miguel, um desenvolvedor apaixonado por tecnologia.</p>
+<p align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Olá! Eu sou Pedro Miguel, um desenvolvedor apaixonado por tecnologia.</p>
 
 ## **🧶Sobre mim**
 
@@ -35,6 +32,7 @@ Tenho 22 anos, atualmente sou programador fullstack no SENAI Alagoas e atuo prof
 
 <p align="left">
 <a href="mailto:pedromiguelmvs.dev@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
-<img src="https://img.shields.io/badge/pedromiguelmvs2-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/pedromiguelmvs2-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=F2F2F2"/>
+<a href="https://linkedin.com/in/pedromiguelmvs"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a></p>
 
-Até mais! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+Até mais!
