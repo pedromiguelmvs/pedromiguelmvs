@@ -1,27 +1,43 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá!
+<p align="center"><img src="assets/logo.png" width="600"/></p>
+<p align="center"><a href="https://twitter.com/imnickgabe"><img src="https://img.shields.io/badge/twitter-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=twitter"/></a>
+<a href="https://linkedin.com/in/nickgabe"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a></p>
+<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Olá! Eu sou Pedro Miguel, um desenvolvedor apaixonado por tecnologia.</p>
 
-Me chamo **Pedro Miguel**, sou um desenvolvedor que adora construir seguindo as boas práticas e aprender coisas novas. Faço meus projetos utilizando as tecnologias mais modernas do mercado.
+## **🧶Sobre mim**
 
+- 22 anos
+- Programador fullstack
+- Apaixonado por qualquer tecnologia Javascript
+- Atualmente estudando Rust
 
-#### 💫 **"Somos o resultado de nossas escolhas."**
+## **🌟 Skills**
 
--  📍  De AL, vivendo em Maceió
+<p align="left"><img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/Angular-393359?logo=angular&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/graphql-393359?logo=graphql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/express.js-393359?logo=express&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/css3-F73C7B?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/html5-393359?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/typescript-F73C7B?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/docker-F73C7B?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/shell%20script-393359?logo=gnu-bash&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/python-393359?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/jest-393359?logo=jest&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/node.js-F73C7B?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/figma-393359?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/tailwindcss-F73C7B?logo=tailwindcss&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/rust-393359?logo=rust&style=for-the-badge&logoColor=F2F2F2"/>
 
+## **🈺 Projetos recentes**
 
-#### Outras redes sociais 👇
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/pedromiguelmvs/)](https://www.linkedin.com/in/pedromiguelmvs/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https:https://www.instagram.com/pedromiguelmvs/)](https://www.instagram.com/pedromiguelmvs/) [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/pedromiguelmvs)](https://gitlab.com/pedromiguelmvs)
+<a href="https://github.com/pedromiguelmvs/grrs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pedromiguelmvs&repo=grrs&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 
+## **👇 Outros meios de contato**
 
-#### Stack
+<p align="left">
+<a href="mailto:pedromiguelmvs.dev@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
+<img src="https://img.shields.io/badge/pedromiguelmvs2-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=F2F2F2"/></p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)<br />
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white)<br />
-![Docker](https://img.shields.io/badge/Docker-0ba2d9.svg?logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-10a54e.svg?logo=mongodb&logoColor=white)<br />
-![Sass](https://img.shields.io/badge/Sass-cf649a.svg?logo=sass&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-cf649a.svg?logo=angular&logoColor=red&color=brown)
-![NestJS](https://img.shields.io/badge/NestJS-cf649a.svg?logo=nestjs&logoColor=red&color=black)<br />
+Até mais!👋
