@@ -5,10 +5,7 @@
 
 ## **🧶Sobre mim**
 
-- 22 anos
-- Programador fullstack
-- Apaixonado por qualquer tecnologia Javascript
-- Atualmente estudando Rust
+Tenho 22 anos, atualmente sou programador fullstack no SENAI Alagoas e atuo profissionalmente no mercado há 3 anos. No meu tempo livre sou entusiasta de qualquer tecnologia baseada em Javascript e leitor assíduo de mangás de gêneros variados. Atualmente estudando Rust e aprimorando meus conhecimentos em frontend, arquiteturas Web e design patterns com Javascript.
 
 ## **🌟 Skills**
 
@@ -40,4 +37,4 @@
 <a href="mailto:pedromiguelmvs.dev@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
 <img src="https://img.shields.io/badge/pedromiguelmvs2-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=F2F2F2"/></p>
 
-Até mais!👋
+Até mais! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
